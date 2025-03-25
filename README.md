@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **C++, JS, PHP**
 
-- 📫 How to reach me **toavinasylvianno@gmail.com**
+- 📫 How to reach me **toavinasylvianno@gmail.com** or [https://portfolio-toavinajr.vercel.app/](https://portfolio-toavinajr.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
