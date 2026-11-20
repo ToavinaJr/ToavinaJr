@@ -60,14 +60,13 @@
 
 ### AI & Automation
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=openai,python" alt="AI and automation" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/LLM%20%26%20GenAI-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="LLM & generative AI integration" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/RAG-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/AI%20Agents-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="AI agents" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Prompt engineering" />
 </p>
-
-- n8n (workflow automation)
-- LLM & generative AI integration
-- OpenAI API
-- RAG and AI agents
-- Prompt engineering
 
 ### Databases & Tools
 <p align="left">
@@ -92,7 +91,7 @@
 
 ---
 
-## �professional experience
+## 💼 Professional Experience
 
 - **Stagiaire Fullstack**, Developa: Django and React, webhooks, VPS deployment
 - **Développeur WordPress & Consultant IT**, Humans4Help Madagascar
