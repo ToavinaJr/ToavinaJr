@@ -82,10 +82,57 @@
 
 ## 📌 Featured Projects
 
-<!-- Replace the placeholders with your real projects and links -->
-- 🤖 **[Project name]**: One-line description, main stack, [link]
-- ⚙️ **[Project name]**: One-line description, main stack, [link]
-- 🌐 **[Project name]**: One-line description, main stack, [link]
+
+## 📌 Featured Projects
+
+<p align="left">
+
+<a href="https://flowfret-jr.vercel.app/">
+  <img src="https://img.shields.io/badge/🎸_FlowFret-Music_Platform-8B5CF6?style=for-the-badge" />
+</a>
+
+<a href="https://edu-os-ruddy.vercel.app/">
+  <img src="https://img.shields.io/badge/🎓_Edu--OS-Education_Platform-2563EB?style=for-the-badge" />
+</a>
+
+<a href="https://koziko.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_Koziko-Web_Platform-0D9488?style=for-the-badge" />
+</a>
+
+<a href="https://n8n-project-wine.vercel.app/">
+  <img src="https://img.shields.io/badge/🤖_Jobfit-AI_&_Automation-F59E0B?style=for-the-badge" />
+</a>
+
+<a href="https://footera-frontend.vercel.app/">
+  <img src="https://img.shields.io/badge/⚽_Footera-Football_Ecosystem-16A34A?style=for-the-badge" />
+</a>
+
+</p>
+
+### 🎸 [FlowFret](https://flowfret-jr.vercel.app/)
+A music-focused platform exploring guitar learning, music transcription, and lyrics discovery, combining modern web technologies with audio processing.
+
+`React · TypeScript · NestJS · Python`
+
+### 🎓 [Edu-OS](https://edu-os-ruddy.vercel.app/)
+An educational platform designed to provide a structured digital learning experience and simplify access to educational resources and tools.
+
+`Web Development · TypeScript`
+
+### 🌐 [Koziko](https://koziko.vercel.app/)
+A modern web application built to deliver a streamlined user experience through a clean interface and practical digital features.
+
+`Web Development · Modern UI`
+
+### 🤖 [Jobfit](https://n8n-project-wine.vercel.app/)
+An intelligent recruitment-oriented project leveraging automation and AI-driven workflows to improve job matching and streamline recruitment processes.
+
+`AI · n8n · Automation · Web Development`
+
+### ⚽ [Footera](https://footera-frontend.vercel.app/)
+A football ecosystem connecting players, coaches, clubs, spectators, and sports facilities through a dedicated mobile platform and digital services.
+
+`React Native · Expo · NestJS · Prisma · PostgreSQL · Docker`
 
 > More projects on my [GitHub](https://github.com/ToavinaJr) and [portfolio](https://portfolio-toavinajr.vercel.app/).
 
