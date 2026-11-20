@@ -1,32 +1,139 @@
-- 👋 Hi, I’m @ToavinaJr and I'm from Madagasikara 🇲🇬
 
 <h1 align="center">Hi 👋, I'm Toavina Sylvianno</h1>
-<h3 align="center">I'm a Junior Web developer from Madagasikara</h3>
-- 👀 I’m interested in coding💻, web programming , software and game development
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=toavinajr&label=Profile%20views&color=0e75b6&style=flat" alt="toavinajr" /> </p>
+<h3 align="center">Fullstack Developer · AI Engineer · Automation Enthusiast from Madagascar 🇲🇬</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toavinajr" alt="toavinajr" /></a> </p>
-
-- 🌱 I’m currently learning **C++, JS, Rust, PHP, ReactJs, TailwindCSS, Qt**
-
-- 💬 Ask me about **C++, JS, PHP**
-
-- 📫 How to reach me : <br/>Gmail : **toavinasylvianno@gmail.com**<br/>My portfolio : [https://portfolio-toavinajr.vercel.app/](https://portfolio-toavinajr.vercel.app/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  Building modern web applications, AI-powered solutions, and intelligent automation systems.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://portfolio-toavinajr.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/ToavinaJr">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=toavinajr&show_icons=true&locale=en&layout=compact" alt="toavinajr" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=toavinajr&show_icons=true&locale=en" alt="toavinajr" /></p>
+## 👨‍💻 About Me
 
+- 🇲🇬 Based in Madagascar
+- 🎓 Master's student in Information Systems & Artificial Intelligence
+- 💻 Fullstack developer focused on modern web technologies and backend engineering
+- 🤖 Interested in AI integrations, LLMs, intelligent agents, and workflow automation
+- ⚙️ Building scalable applications, APIs, and AI-powered tools
+- 🐧 Linux, Docker, server administration, and DevOps enthusiast
+- 🌱 Always learning, experimenting, and building things
 
+---
 
-<!---
-ToavinaJr/ToavinaJr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 What I Do
+
+- **Fullstack Development** — Modern web applications & scalable architectures
+- **Backend Engineering** — APIs, databases, authentication & business logic
+- **AI Engineering** — LLM integration, RAG, AI agents & intelligent systems
+- **Automation** — Workflow automation using n8n and AI-powered pipelines
+- **Infrastructure** — Linux servers, Docker, deployments & system administration
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,cpp,php,java" />
+</p>
+
+### Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite" />
+</p>
+
+### Backend & Frameworks
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,bun" />
+</p>
+
+### AI & Automation
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=openai,python" />
+</p>
+
+- OpenAI API
+- LLM Integration
+- RAG
+- AI Agents
+- n8n
+- Prompt Engineering
+- AI-powered workflows
+
+### Database & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,prisma" />
+</p>
+
+### DevOps & Infrastructure
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,docker,nginx,git,github,bash" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+- 🤖 **AI Applications** — AI-powered applications, LLM integrations & intelligent assistants
+- ⚙️ **Automation Systems** — Automated workflows, integrations & AI pipelines
+- 🌐 **Fullstack Applications** — Web platforms built with React, Next.js, NestJS & TypeScript
+- 🖥️ **Infrastructure Projects** — Linux server administration, Docker & deployment solutions
+
+> Explore my repositories to discover what I'm currently building.
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ToavinaJr&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=ToavinaJr&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToavinaJr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://portfolio-toavinajr.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/ToavinaJr">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:toavinasylvianno14@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Building, learning, and turning ideas into reality through code."</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ToavinaJr&style=flat-square&color=7C3AED" alt="Profile views" />
+</p>
